@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Kafkadatagenerator logo" width="180">
+</p>
+
 # Data Generator
 
 A Java application that reads CSV files and publishes the data as JSON events to a Kafka topic.
